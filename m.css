@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+#brownbull {
+        background:linear-gradient(deeppink 0%,#12044a 100%);
+} 
+h1 {
+    font-family: cursive;
+    font-size: 40px;
+    color:white;
+}
+hr {
+   height: 10px;
+    background-color: black; 
+}
